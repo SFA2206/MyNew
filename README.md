@@ -1,2 +1,2 @@
 # MyNew
-First 
+First Git Repository
